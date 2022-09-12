@@ -1,0 +1,4 @@
+include requirements.txt
+graft odoo
+recursive-exclude * *.py[co]
+recursive-exclude .git *
