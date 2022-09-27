@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'Discuss',
-    'version': '1.5',
+    'name': 'Mail',
+    'version': '1.0',
     'category': 'Productivity/Discuss',
     'sequence': 145,
-    'summary': 'Chat, mail gateway and private channels',
+    'summary': 'Mail gateway and private channels',
     'description': "",
     'website': 'https://www.odoo.com/app/discuss',
     'depends': ['base', 'base_setup', 'bus', 'web_tour'],
