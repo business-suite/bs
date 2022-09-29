@@ -3,11 +3,10 @@
 {
     'name': 'Mail',
     'version': '1.0',
-    'category': 'Productivity/Discuss',
+    'category': 'Hidden/Tools',
     'sequence': 145,
-    'summary': 'Mail gateway and private channels',
+    'summary': 'Mail gateway',
     'description': "",
-    'website': 'https://www.odoo.com/app/discuss',
     'depends': ['base', 'base_setup', 'bus', 'web_tour'],
     'data': [
         'data/mail_groups.xml',
@@ -166,4 +165,5 @@
         ],
     },
     'license': 'LGPL-3',
+    'application': False,
 }
