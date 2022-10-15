@@ -18,6 +18,8 @@ __pycache__/
 status
 # odoo filestore
 odoo/filestore
+inventory
+
 # maintenance migration scripts
 odoo/addons/base/maintenance
 
