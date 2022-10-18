@@ -19,6 +19,7 @@ status
 # odoo filestore
 odoo/filestore
 inventory
+discuss
 
 # maintenance migration scripts
 odoo/addons/base/maintenance
