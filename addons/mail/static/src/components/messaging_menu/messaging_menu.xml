@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates xml:space="preserve">
+
+    <t t-name="mail.MessagingMenu" owl="1">
+      <div class="MessagingMenu"></div>
+    </t>
+
+    <t t-name="mail.MessagingMenu.newMessageButton" owl="1">
+      <div class="newMessageButton"></div>
+    </t>
+
+</templates>

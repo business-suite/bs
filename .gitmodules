@@ -1,3 +1,0 @@
-[submodule "inventory"]
-	path = inventory
-	url = https://github.com/business-suite/inventory.git
